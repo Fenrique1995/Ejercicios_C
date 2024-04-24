@@ -1,0 +1,10 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Proyecto.exe.config
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Proyecto.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Proyecto.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Ejercicios.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Ejercicios.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.pdb

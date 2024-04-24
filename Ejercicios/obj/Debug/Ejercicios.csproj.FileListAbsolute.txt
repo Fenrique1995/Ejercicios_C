@@ -1,0 +1,8 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Biblioteca\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Biblioteca\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\bin\Debug\Ejercicios.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\bin\Debug\Ejercicios.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.pdb
