@@ -77,9 +77,23 @@ namespace Proyectos
                     Console.WriteLine();
                     break;
                 case 8:
-                    var ejercicio08 = new Ejercicios.Ejercicios08();
+                    var ejercicio08 = new Ejercicios.Ejercicio08();
 
                     ejercicio08.ejercicio08();
+
+                    Console.WriteLine();
+                    break;
+                case 9:
+                    var ejercicio09 = new Ejercicios.Ejercicio09();
+
+                    ejercicio09.ejercicio09();
+
+                    Console.WriteLine();
+                    break;
+                case 10:
+                    var ejercicio10 = new Ejercicios.Ejercicio10();
+
+                    ejercicio10.ejercicio10();
 
                     Console.WriteLine();
                     break;

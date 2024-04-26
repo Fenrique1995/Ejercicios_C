@@ -6,3 +6,4 @@ D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\b
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\bin\Debug\Ejercicios.pdb
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.dll
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\obj\Debug\Ejercicios.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Ejercicios\bin\Debug\Ejercicios.dll.config

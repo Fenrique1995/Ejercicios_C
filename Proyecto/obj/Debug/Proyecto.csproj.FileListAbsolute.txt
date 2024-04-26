@@ -8,3 +8,4 @@ D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.exe
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\obj\Debug\Proyecto.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Proyecto\bin\Debug\Ejercicios.dll.config

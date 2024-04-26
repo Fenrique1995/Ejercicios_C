@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Ejercicios
 {
-    public class Ejercicios08
+    public class Ejercicio08
     {
         public void ejercicio08()
         {
