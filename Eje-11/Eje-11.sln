@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eje-11", "Eje-11.csproj", "{C26352BA-2312-4969-9C75-43D5A81F0D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseValidacion", "..\ClaseValidacion\ClaseValidacion.csproj", "{ED29A01A-2396-4FD7-930F-2A9507322A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26352BA-2312-4969-9C75-43D5A81F0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26352BA-2312-4969-9C75-43D5A81F0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26352BA-2312-4969-9C75-43D5A81F0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26352BA-2312-4969-9C75-43D5A81F0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED29A01A-2396-4FD7-930F-2A9507322A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED29A01A-2396-4FD7-930F-2A9507322A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED29A01A-2396-4FD7-930F-2A9507322A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED29A01A-2396-4FD7-930F-2A9507322A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BACBB8C-2E2C-44C3-9E43-080E1C1ADA11}
+	EndGlobalSection
+EndGlobal

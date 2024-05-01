@@ -1,0 +1,6 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\obj\Debug\ClaseValidacion.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\obj\Debug\ClaseValidacion.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\bin\Debug\ClaseValidacion.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\bin\Debug\ClaseValidacion.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\obj\Debug\ClaseValidacion.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\ClaseValidacion\obj\Debug\ClaseValidacion.pdb

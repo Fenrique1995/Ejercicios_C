@@ -1,0 +1,10 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\bin\Debug\Eje-11.exe.config
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\bin\Debug\Eje-11.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\bin\Debug\Eje-11.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\obj\Debug\Eje-11.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\obj\Debug\Eje-11.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\obj\Debug\Eje-11.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\obj\Debug\Eje-11.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\bin\Debug\ClaseValidacion.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\bin\Debug\ClaseValidacion.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-11\obj\Debug\Eje-11.csproj.Up2Date
