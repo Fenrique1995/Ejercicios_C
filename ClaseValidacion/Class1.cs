@@ -10,19 +10,14 @@ namespace ClaseValidacion
     {
         public static bool Validar(int valor, int min, int max) 
         {
-            if (valor <= 100 || valor >= -100)
+            // Verifica si cualquier valor está fuera del rango permitido.
+            if (valor > 100 || valor < -100 || min > 100 || min < -100 || max > 100 || max < -100)
             {
-                return true;
+                return false;
             }
-            else if (min <= 100 || min >= -100)
-            {
-                return true;
-            }
-            else if (max <= 100 || max >= -100)
-            {
-                return true;
-            }
-            return false;
+
+            // Si todos los valores están dentro del rango -100 a 100, retorna true.
+            return true;
         }
     }
 }

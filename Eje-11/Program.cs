@@ -24,9 +24,9 @@ namespace Eje_11
                 Console.WriteLine("Ingrese un numero");
                 entrada = Console.ReadLine();
 
-                while (!int.TryParse(entrada, out valorNumerico))
+                while (!int.TryParse(entrada, out valorNumerico) || !Validacion.Validar(valorNumerico, -100, 100))
                 {
-                    Console.WriteLine("Debe ingresar un valor numerico!!!");
+                    Console.WriteLine("Debe ingresar un valor numerico entre 100 y -100!!!");
                     entrada = Console.ReadLine();
                 }
 
@@ -51,11 +51,7 @@ namespace Eje_11
                         menor = valorNumerico;
                     }
                 }
-                while (!Validacion.Validar(valorNumerico, mayor, menor))
-                {
-                    Console.WriteLine("Debe ingresar un valor numerico entre -100 y 100!!!");
-                    entrada = Console.ReadLine();
-                }
+               
             }
             promedio = sumaDeValores / 10;
             Console.WriteLine($"Este es el mayor: {mayor}\nEste es el menor: {menor}\nEste es el promedio: {promedio}");
