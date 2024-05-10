@@ -1,0 +1,10 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\bin\Debug\Eje-17.exe.config
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\bin\Debug\Eje-17.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\bin\Debug\Eje-17.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\bin\Debug\Cartuchera.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\bin\Debug\Cartuchera.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\obj\Debug\Eje-17.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\obj\Debug\Eje-17.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\obj\Debug\Eje-17.csproj.Up2Date
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\obj\Debug\Eje-17.exe
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Eje-17\obj\Debug\Eje-17.pdb

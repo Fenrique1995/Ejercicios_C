@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C5794F-6DCD-46F1-9F14-14626E01587F}|Eje-34.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\eje-34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C5794F-6DCD-46F1-9F14-14626E01587F}|Eje-34.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-34\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-34\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:42:51.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

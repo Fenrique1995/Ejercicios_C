@@ -1,0 +1,6 @@
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\bin\Debug\Cartuchera.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\bin\Debug\Cartuchera.pdb
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\obj\Debug\Cartuchera.csproj.AssemblyReference.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\obj\Debug\Cartuchera.csproj.CoreCompileInputs.cache
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\obj\Debug\Cartuchera.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\Cartuchera\obj\Debug\Cartuchera.pdb
