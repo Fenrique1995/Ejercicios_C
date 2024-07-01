@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E90C8E6-7094-4623-BD5F-89081071DE55}|Eje-17.csproj|D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E90C8E6-7094-4623-BD5F-89081071DE55}|Eje-17.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\eje-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E90C8E6-7094-4623-BD5F-89081071DE55}|Eje-17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\Eje-17\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAmwBMAAAA0AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T20:02:05.98Z",
               "IsPinned": true,
@@ -47,8 +47,7 @@
               "RelativeToolTip": "..\\Cartuchera\\Boligrafo.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAkwDUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T01:21:30.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T01:21:30.524Z"
             }
           ]
         }
