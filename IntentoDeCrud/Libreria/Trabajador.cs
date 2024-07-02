@@ -28,7 +28,7 @@ namespace Libreria
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(base.ToString());
-            sb.Append(puesto+"\n");
+            sb.Append("Puesto: "+puesto + " ");
             return sb.ToString();
         }
     }

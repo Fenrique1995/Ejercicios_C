@@ -20,7 +20,7 @@ namespace IntentoDeCrud
             {
                 Puesto selectedPuesto = (Puesto)comboBoxPuesto.SelectedItem;
             }
-            else 
+            else
             {
                 MessageBox.Show("Seleccione un puesto por favor.");
                 return;
@@ -47,7 +47,7 @@ namespace IntentoDeCrud
 
                 // Crear instancia de Inyector y guardar en la base de datos
                 Inyector inyector = new Inyector();
-                inyector.InsertarTrabajador(trabajador.Nombre, trabajador.Apellido, trabajador.Dni, trabajador.Puesto);
+                inyector.InsertarTrabajador(trabajador.Nombre, trabajador.Apellido, trabajador.Dni, puesto.ToString());
 
             }
             catch (Exception ex)
@@ -59,10 +59,19 @@ namespace IntentoDeCrud
         private void mostrarTrabajador_Click(object sender, EventArgs e)
         {
             txtMostrarTrabajadores.Items.Clear();
+
+            Inyector inyector = new Inyector();
+            List<Trabajador> trabajadores = inyector.ConectarYLeer();
+
             foreach (var trabajador in trabajadores)
             {
                 txtMostrarTrabajadores.Items.Add(trabajador.ToString());
             }
+        }
+
+        private void txtMostrarTrabajadores_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

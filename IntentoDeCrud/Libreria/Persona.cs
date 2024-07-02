@@ -36,9 +36,9 @@ namespace Libreria
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append(Nombre+"\n");
-            sb.Append(Apellido+"\n");
-            sb.Append(Dni+"\n");
+            sb.Append("Nombre: "+Nombre + " ");
+            sb.Append("Apellido: " + Apellido + " ");
+            sb.Append("DNI: " + Dni + " ");
             return sb.ToString();
         }
     }

@@ -12,9 +12,10 @@ namespace Libreria
         //server name: DESKTOP-DOOUSUP
         private string connectionString = "Server=DESKTOP-DOOUSUP;Database=Trabajadores;Trusted_Connection=True;";
 
-        // Método para conectar y realizar una operación de lectura
-        public void ConectarYLeer()
+        public List<Trabajador> ConectarYLeer()
         {
+            List<Trabajador> trabajadores = new List<Trabajador>();
+
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 try
@@ -23,15 +24,21 @@ namespace Libreria
                     Console.WriteLine("Conexión exitosa a la base de datos Trabajadores.");
 
                     // Ejemplo de consulta SQL
-                    string query = "SELECT * FROM Trabajadores";
+                    string query = "SELECT * FROM Trabajador";
 
                     SqlCommand command = new SqlCommand(query, connection);
                     SqlDataReader reader = command.ExecuteReader();
 
                     while (reader.Read())
                     {
-                        // Asumiendo que la tabla Trabajadores tiene columnas Nombre, Apellido, DNI y Puesto
-                        Console.WriteLine($"Nombre: {reader["Nombre"]}, Apellido: {reader["Apellido"]}, DNI: {reader["DNI"]}, Puesto: {reader["Puesto"]}");
+                        string nombre = reader["Nombre"].ToString() + Environment.NewLine;
+                        string apellido = reader["Apellido"].ToString() + Environment.NewLine;
+                        int dni = Convert.ToInt32(reader["DNI"]);
+                        Puesto puesto = (Puesto)Enum.Parse(typeof(Puesto), reader["Puesto"].ToString() + Environment.NewLine);
+
+                        Trabajador trabajador = new Trabajador(nombre, apellido, dni, puesto);
+
+                        trabajadores.Add(trabajador);
                     }
 
                     reader.Close();
@@ -41,10 +48,12 @@ namespace Libreria
                     Console.WriteLine("Error al conectar a la base de datos: " + ex.Message);
                 }
             }
+
+            return trabajadores;
         }
 
         // Método para realizar una operación de inserción
-        public void InsertarTrabajador(string nombre, string apellido, int dni, Puesto puesto)
+        public void InsertarTrabajador(string nombre, string apellido, int dni, string puesto)
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {

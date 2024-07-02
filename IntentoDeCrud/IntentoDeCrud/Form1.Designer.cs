@@ -138,14 +138,15 @@
             txtMostrarTrabajadores.ItemHeight = 15;
             txtMostrarTrabajadores.Location = new Point(425, 18);
             txtMostrarTrabajadores.Name = "txtMostrarTrabajadores";
-            txtMostrarTrabajadores.Size = new Size(249, 259);
+            txtMostrarTrabajadores.Size = new Size(407, 259);
             txtMostrarTrabajadores.TabIndex = 10;
+            txtMostrarTrabajadores.SelectedIndexChanged += txtMostrarTrabajadores_SelectedIndexChanged;
             // 
             // Guardar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(699, 308);
+            ClientSize = new Size(844, 308);
             Controls.Add(txtMostrarTrabajadores);
             Controls.Add(mostrarTrabajador);
             Controls.Add(guardarTrabajador);
