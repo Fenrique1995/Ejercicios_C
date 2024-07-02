@@ -22,7 +22,7 @@ namespace Libreria
             this.puesto = puesto;
         }
 
-        public Puesto Puesto { get { return this.puesto; } }
+        public Puesto Puesto { get { return puesto; } }
 
         public override string ToString()
         {

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|solutionrelative:intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C528900-B19D-4C2C-915B-759AFE78D904}|Libreria\\Libreria.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\libreria\\inyector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C528900-B19D-4C2C-915B-759AFE78D904}|Libreria\\Libreria.csproj|solutionrelative:libreria\\inyector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|solutionrelative:intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\intentodecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|solutionrelative:intentodecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|solutionrelative:intentodecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C528900-B19D-4C2C-915B-759AFE78D904}|Libreria\\Libreria.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\libreria\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C528900-B19D-4C2C-915B-759AFE78D904}|Libreria\\Libreria.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\libreria\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C528900-B19D-4C2C-915B-759AFE78D904}|Libreria\\Libreria.csproj|solutionrelative:libreria\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\repos\\intentodecrud\\intentodecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D1E6E6-008A-4848-AB0A-5173A77011CB}|IntentoDeCrud\\IntentoDeCrud.csproj|solutionrelative:intentodecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inyector.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\Libreria\\Inyector.cs",
+              "RelativeDocumentMoniker": "Libreria\\Inyector.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\Libreria\\Inyector.cs",
+              "RelativeToolTip": "Libreria\\Inyector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:38:52.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -46,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\IntentoDeCrud\\Form1.cs",
               "RelativeDocumentMoniker": "IntentoDeCrud\\Form1.cs",
               "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\IntentoDeCrud\\Form1.cs",
               "RelativeToolTip": "IntentoDeCrud\\Form1.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAgAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:20:28.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\IntentoDeCrud\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "IntentoDeCrud\\Form1.Designer.cs",
@@ -78,7 +95,7 @@
               "RelativeDocumentMoniker": "Libreria\\Trabajador.cs",
               "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\repos\\IntentoDeCrud\\Libreria\\Trabajador.cs",
               "RelativeToolTip": "Libreria\\Trabajador.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T05:33:04.204Z",
               "EditorCaption": ""

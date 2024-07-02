@@ -45,6 +45,10 @@ namespace IntentoDeCrud
 
                 trabajadores.Add(trabajador);
 
+                // Crear instancia de Inyector y guardar en la base de datos
+                Inyector inyector = new Inyector();
+                inyector.InsertarTrabajador(trabajador.Nombre, trabajador.Apellido, trabajador.Dni, trabajador.Puesto);
+
             }
             catch (Exception ex)
             {

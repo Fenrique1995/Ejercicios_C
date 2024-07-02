@@ -10,3 +10,4 @@ D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\IntentoDeCru
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\IntentoDeCrud\Libreria\obj\Debug\net8.0\refint\Libreria.dll
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\IntentoDeCrud\Libreria\obj\Debug\net8.0\Libreria.pdb
 D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\IntentoDeCrud\Libreria\obj\Debug\net8.0\ref\Libreria.dll
+D:\fenri\Documents\01-Segundo Cuatrimestre (Labo y Progra II)\repos\IntentoDeCrud\Libreria\obj\Debug\net8.0\Libreria.csproj.AssemblyReference.cache
