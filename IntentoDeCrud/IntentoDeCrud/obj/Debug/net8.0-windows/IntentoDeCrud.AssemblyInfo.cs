@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntentoDeCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b4dd69efe342c7fa24c1ae9944ead8fc790e2b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71921b123d9dd4d0d4f566ae16f1df93df74306d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntentoDeCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntentoDeCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

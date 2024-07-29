@@ -39,6 +39,7 @@
             guardarTrabajador = new Button();
             mostrarTrabajador = new Button();
             txtMostrarTrabajadores = new ListBox();
+            borrarTrabajador = new Button();
             SuspendLayout();
             // 
             // label1
@@ -75,7 +76,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label4.Location = new Point(259, 89);
+            label4.Location = new Point(261, 45);
             label4.Name = "label4";
             label4.Size = new Size(66, 21);
             label4.TabIndex = 3;
@@ -105,7 +106,7 @@
             // comboBoxPuesto
             // 
             comboBoxPuesto.FormattingEnabled = true;
-            comboBoxPuesto.Location = new Point(259, 113);
+            comboBoxPuesto.Location = new Point(259, 69);
             comboBoxPuesto.Name = "comboBoxPuesto";
             comboBoxPuesto.Size = new Size(117, 23);
             comboBoxPuesto.TabIndex = 7;
@@ -114,7 +115,7 @@
             // guardarTrabajador
             // 
             guardarTrabajador.Font = new Font("Segoe UI", 12F);
-            guardarTrabajador.Location = new Point(261, 172);
+            guardarTrabajador.Location = new Point(261, 98);
             guardarTrabajador.Name = "guardarTrabajador";
             guardarTrabajador.Size = new Size(115, 45);
             guardarTrabajador.TabIndex = 8;
@@ -124,7 +125,7 @@
             // 
             // mostrarTrabajador
             // 
-            mostrarTrabajador.Location = new Point(261, 223);
+            mostrarTrabajador.Location = new Point(261, 149);
             mostrarTrabajador.Name = "mostrarTrabajador";
             mostrarTrabajador.Size = new Size(115, 45);
             mostrarTrabajador.TabIndex = 9;
@@ -142,11 +143,22 @@
             txtMostrarTrabajadores.TabIndex = 10;
             txtMostrarTrabajadores.SelectedIndexChanged += txtMostrarTrabajadores_SelectedIndexChanged;
             // 
+            // borrarTrabajador
+            // 
+            borrarTrabajador.Location = new Point(259, 200);
+            borrarTrabajador.Name = "borrarTrabajador";
+            borrarTrabajador.Size = new Size(117, 47);
+            borrarTrabajador.TabIndex = 11;
+            borrarTrabajador.Text = "Borrar";
+            borrarTrabajador.UseVisualStyleBackColor = true;
+            borrarTrabajador.Click += borrarTrabajador_Click;
+            // 
             // Guardar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(844, 308);
+            Controls.Add(borrarTrabajador);
             Controls.Add(txtMostrarTrabajadores);
             Controls.Add(mostrarTrabajador);
             Controls.Add(guardarTrabajador);
@@ -177,5 +189,6 @@
         private Button guardarTrabajador;
         private Button mostrarTrabajador;
         private ListBox txtMostrarTrabajadores;
+        private Button borrarTrabajador;
     }
 }

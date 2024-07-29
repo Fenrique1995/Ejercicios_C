@@ -31,10 +31,10 @@ namespace Libreria
 
                     while (reader.Read())
                     {
-                        string nombre = reader["Nombre"].ToString() + Environment.NewLine;
-                        string apellido = reader["Apellido"].ToString() + Environment.NewLine;
+                        string nombre = reader["Nombre"].ToString();
+                        string apellido = reader["Apellido"].ToString();
                         int dni = Convert.ToInt32(reader["DNI"]);
-                        Puesto puesto = (Puesto)Enum.Parse(typeof(Puesto), reader["Puesto"].ToString() + Environment.NewLine);
+                        Puesto puesto = (Puesto)Enum.Parse(typeof(Puesto), reader["Puesto"].ToString());
 
                         Trabajador trabajador = new Trabajador(nombre, apellido, dni, puesto);
 
@@ -90,5 +90,43 @@ namespace Libreria
             }
         }
 
+
+
+        public void BorrarTrabajador(string trabajadorStr)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+
+                    // Divide la cadena para obtener las partes necesarias
+                    string[] partes = trabajadorStr.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                    string nombre = partes[1];
+                    string apellido = partes[3];
+                    int dni = int.Parse(partes[5]);
+
+                    string query = "DELETE FROM Trabajador WHERE Nombre = @Nombre AND Apellido = @Apellido AND DNI = @DNI";
+                    SqlCommand command = new SqlCommand(query, connection);
+                    command.Parameters.AddWithValue("@Nombre", nombre);
+                    command.Parameters.AddWithValue("@Apellido", apellido);
+                    command.Parameters.AddWithValue("@DNI", dni);
+
+                    int result = command.ExecuteNonQuery();
+                    if (result > 0)
+                    {
+                        Console.WriteLine("Trabajador borrado exitosamente.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("No se pudo borrar el trabajador.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al conectar a la base de datos: " + ex.Message);
+                }
+            }
+        }
     }
 }

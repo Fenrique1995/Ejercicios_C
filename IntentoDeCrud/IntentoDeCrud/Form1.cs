@@ -73,5 +73,41 @@ namespace IntentoDeCrud
         {
 
         }
+
+        private void borrarTrabajador_Click(object sender, EventArgs e)
+        {
+            if (txtMostrarTrabajadores.SelectedItem != null)
+            {
+                // Obtener el trabajador seleccionado como cadena
+                string trabajadorSeleccionadoStr = txtMostrarTrabajadores.Text;
+
+                // Llamar al método para borrar el trabajador usando la cadena ToString
+                Inyector inyector = new Inyector();
+                inyector.BorrarTrabajador(trabajadorSeleccionadoStr);
+
+                // Eliminar el trabajador de la lista en memoria
+                Trabajador trabajadorSeleccionado = trabajadores.FirstOrDefault(t => t.ToString() == trabajadorSeleccionadoStr);
+                if (trabajadorSeleccionado != null)
+                {
+                    trabajadores.Remove(trabajadorSeleccionado);
+                }
+
+                // Actualizar la ListBox
+                ActualizarListaTrabajadores();
+            }
+            else
+            {
+                MessageBox.Show("Por favor, seleccione un trabajador para borrar.");
+            }
+
+        }
+        private void ActualizarListaTrabajadores()
+        {
+            Inyector inyector = new Inyector();
+            trabajadores = inyector.ConectarYLeer();
+
+            txtMostrarTrabajadores.DataSource = null;
+            txtMostrarTrabajadores.DataSource = trabajadores;
+        }
     }
 }
